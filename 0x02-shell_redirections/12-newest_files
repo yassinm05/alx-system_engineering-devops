@@ -1,2 +1,2 @@
-#!/bin/bashls 
-ls -tl | head 
+#!/bin/bash
+ls -tl | head  
